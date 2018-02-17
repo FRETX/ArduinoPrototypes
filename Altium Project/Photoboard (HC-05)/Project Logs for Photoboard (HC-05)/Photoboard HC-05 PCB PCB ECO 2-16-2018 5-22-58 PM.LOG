@@ -1,0 +1,72 @@
+Added Component: Designator=+(SMT Pad 1.27x2.54mm)
+Added Component: Designator=-(SMT Pad 1.27x2.54mm)
+Added Component: Designator=C1(FPC_Connector_11P)
+Added Component: Designator=RXD(SMT Pad 1.27x2.54mm)
+Added Component: Designator=RX(SMT Pad 1.27x2.54mm)
+Added Component: Designator=TXD(SMT Pad 1.27x2.54mm)
+Added Component: Designator=TX(SMT Pad 1.27x2.54mm)
+Added Component: Designator=U1(HC-05)
+Added Component: Designator=U2(Arduino Nano)
+Added Pin To Net: NetName=GND Pin=--1
+Added Pin To Net: NetName=GND Pin=U1-GND
+Added Pin To Net: NetName=GND Pin=U1-GND
+Added Pin To Net: NetName=GND Pin=U1-GND
+Added Pin To Net: NetName=GND Pin=U2-GND
+Added Pin To Net: NetName=GND Pin=U2-GND
+Added Net: Name=GND
+Added Pin To Net: NetName=Net+_1 Pin=+-1
+Added Pin To Net: NetName=Net+_1 Pin=U2-VIN
+Added Net: Name=Net+_1
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=U2-D8
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=U2-A4
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetC1_3 Pin=C1-3
+Added Pin To Net: NetName=NetC1_3 Pin=U2-A3
+Added Net: Name=NetC1_3
+Added Pin To Net: NetName=NetC1_4 Pin=C1-4
+Added Pin To Net: NetName=NetC1_4 Pin=U2-A2
+Added Net: Name=NetC1_4
+Added Pin To Net: NetName=NetC1_5 Pin=C1-5
+Added Pin To Net: NetName=NetC1_5 Pin=U2-A1
+Added Net: Name=NetC1_5
+Added Pin To Net: NetName=NetC1_6 Pin=C1-6
+Added Pin To Net: NetName=NetC1_6 Pin=U2-D2
+Added Net: Name=NetC1_6
+Added Pin To Net: NetName=NetC1_7 Pin=C1-7
+Added Pin To Net: NetName=NetC1_7 Pin=U2-D3
+Added Net: Name=NetC1_7
+Added Pin To Net: NetName=NetC1_8 Pin=C1-8
+Added Pin To Net: NetName=NetC1_8 Pin=U2-D4
+Added Net: Name=NetC1_8
+Added Pin To Net: NetName=NetC1_9 Pin=C1-9
+Added Pin To Net: NetName=NetC1_9 Pin=U2-D5
+Added Net: Name=NetC1_9
+Added Pin To Net: NetName=NetC1_10 Pin=C1-10
+Added Pin To Net: NetName=NetC1_10 Pin=U2-D6
+Added Net: Name=NetC1_10
+Added Pin To Net: NetName=NetC1_11 Pin=C1-11
+Added Pin To Net: NetName=NetC1_11 Pin=U2-D7
+Added Net: Name=NetC1_11
+Added Pin To Net: NetName=NetRX_1 Pin=RX-1
+Added Pin To Net: NetName=NetRX_1 Pin=U2-RX0
+Added Net: Name=NetRX_1
+Added Pin To Net: NetName=NetRXD_1 Pin=RXD-1
+Added Pin To Net: NetName=NetRXD_1 Pin=U1-RXD
+Added Net: Name=NetRXD_1
+Added Pin To Net: NetName=NetTX_1 Pin=TX-1
+Added Pin To Net: NetName=NetTX_1 Pin=U2-TX1
+Added Net: Name=NetTX_1
+Added Pin To Net: NetName=NetTXD_1 Pin=TXD-1
+Added Pin To Net: NetName=NetTXD_1 Pin=U1-TXD
+Added Net: Name=NetTXD_1
+Added Pin To Net: NetName=NetU1_GND Pin=U1-GND
+Added Pin To Net: NetName=NetU1_GND Pin=U1-GND
+Added Pin To Net: NetName=NetU1_GND Pin=U1-GND
+Added Pin To Net: NetName=NetU1_GND Pin=U2-3V3
+Added Net: Name=NetU1_GND
+Added Pin To Net: NetName=NetU1_PIO9 Pin=U1-PIO9
+Added Pin To Net: NetName=NetU1_PIO9 Pin=U2-D13
+Added Net: Name=NetU1_PIO9

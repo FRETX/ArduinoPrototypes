@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Photoboard (HC-05).PrjPcb]
+   Generated File[Photoboard HC-05 PCB.TXT]
+   Generated File[Photoboard HC-05 PCB.DRL]
+   Generated File[Photoboard HC-05 PCB.LDP]
+   Generated File[Photoboard HC-05 PCB.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 5:21:34 PM On 2/17/2018
